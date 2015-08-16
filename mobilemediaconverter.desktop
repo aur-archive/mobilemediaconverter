@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.8.5
+Name=Mobile Media Converter
+Comment=Media Converter
+Exec=mobilemediaconverter
+Icon=mobilemediaconverter
+Terminal=false
+Categories=AudioVideo;Multimedia
